@@ -4,6 +4,8 @@ The **ReportQA** skill automates the rigorous quality assurance and progress tra
 
 This skill is designed to synthesize information across the entire consulting workflow, making it an invaluable tool for consultants who need to verify claims against raw data, check draft reports for inconsistencies, and generate comprehensive QA progress reports.
 
+Built for the **Manus × Vibecoding: Consulting Hackathon**.
+
 ## Manus Session
 View Manus Session [here](https://manus.im/share/2dQgBzwPKkXNKX1b8FfS1I)
 
