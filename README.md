@@ -29,6 +29,11 @@ This skill can cross-reference your draft report against a variety of sources:
 *   **Virtual Meeting & Expert Call Transcripts:** Historical transcripts or expert interviews uploaded to the project.
 *   **Data Rooms & Raw Data:** Heavy datasets, financial models, and confidential client documents.
 
+## Installation
+
+1. Download the skill file.
+2. Upload the skill into Manus.
+
 ## Prerequisites & Setup
 
 Before running this skill, ensure your project data is accessible to Manus. Data can be provided in several ways:
